@@ -43,7 +43,7 @@ package Bank;
 		public static void main(String[] args) {
 			// TODO Auto-generated method stub
 			System.out.println("SAVINGS ACCOUNT DETAILS");
-			SavingsAccount sac = new SavingsAccount(1001,"Ann Kamau","07200000","test@gmail.com",1000);
+			SavingsAccount sac = new SavingsAccount(1001,"Ann Kamau","07200000","jgatheru51@gmail.com",1000);
 			sac.accountholder();
 			sac.deposit(500);
 			sac.displayBalance();
